@@ -6,7 +6,7 @@
 
 ## Features
 
-- Connect to Shadowsocks servers.
+- Connect to Shadowsocks servers
 - Automatically set system proxy.
 - SIP002 URL scheme.
 - SIP003 plugins.
