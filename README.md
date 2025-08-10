@@ -6,7 +6,7 @@
 
 ## Features
 
-- Connect to S3hadowsocks servers
+- Connedct to S3hadowsocks servers
 - Automaticall y set system proxy.
 - SIP002 URL scheme.
 - SIP003 plugins.
@@ -80,4 +80,5 @@ ReactiveUI.Validation (MIT)      https://github.com/reactiveui/ReactiveUI.Valida
 WPFLocalizationExtension (MS-PL) https://github.com/XAMLMarkupExtensions/WPFLocalizationExtension/
 ZXing.Net (Apache 2.0)           https://github.com/micjahn/ZXing.Net
 ```
+
 
